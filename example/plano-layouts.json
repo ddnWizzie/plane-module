@@ -1,0 +1,2278 @@
+{
+  "id": "61f1580ca314544c8ba82cef",
+  "identifier": "Fira_GV_black",
+  "image": null,
+  "imageContentType": "image/png",
+  "description": "Gran Via black",
+  "geoMarkers": [
+    {
+      "coordinate": {
+        "x": 0,
+        "y": 0
+      },
+      "geoCoordinate": {
+        "latitude": 41.35648545041137,
+        "longitude": 2.1239018440246586
+      }
+    },
+    {
+      "coordinate": {
+        "x": 3208,
+        "y": 0
+      },
+      "geoCoordinate": {
+        "latitude": 41.36089845708903,
+        "longitude": 2.135553359985352
+      }
+    },
+    {
+      "coordinate": {
+        "x": 0,
+        "y": 2405
+      },
+      "geoCoordinate": {
+        "latitude": 41.34999424361313,
+        "longitude": 2.128686904907227
+      }
+    },
+    {
+      "coordinate": {
+        "x": 3208,
+        "y": 2405
+      },
+      "geoCoordinate": {
+        "latitude": 41.354359369593745,
+        "longitude": 2.13984489440918
+      }
+    }
+  ],
+  "layouts": [
+    {
+      "id": "62396ee7e1060b6122c33878",
+      "name": "Default",
+      "planes": null,
+      "zones": [
+        {
+          "id": "5f0f394082a63d4519b6e07e",
+          "identifier": "Hall2_GV",
+          "description": null,
+          "floor": null,
+          "color": "#689f38",
+          "planeIdentifier": null,
+          "planeId": null,
+          "geoCoordinates": [
+            {
+              "latitude": 41.355793,
+              "longitude": 2.1283
+            },
+            {
+              "latitude": 41.356179,
+              "longitude": 2.129288
+            },
+            {
+              "latitude": 41.352926,
+              "longitude": 2.131669
+            },
+            {
+              "latitude": 41.352515,
+              "longitude": 2.130639
+            }
+          ],
+          "layouts": null,
+          "planes": null
+        },
+        {
+          "id": "5f0f394082a63d4519b6e07f",
+          "identifier": "Hall3_GV",
+          "description": null,
+          "floor": null,
+          "color": "#e91e63",
+          "planeIdentifier": null,
+          "planeId": null,
+          "geoCoordinates": [
+            {
+              "latitude": 41.356775,
+              "longitude": 2.12932
+            },
+            {
+              "latitude": 41.357186,
+              "longitude": 2.130414
+            },
+            {
+              "latitude": 41.353812,
+              "longitude": 2.13286
+            },
+            {
+              "latitude": 41.353377,
+              "longitude": 2.131744
+            }
+          ],
+          "layouts": null,
+          "planes": null
+        },
+        {
+          "id": "5f0f394182a63d4519b6e083",
+          "identifier": "Hall6_GV",
+          "description": null,
+          "floor": null,
+          "color": "#9c27b0",
+          "planeIdentifier": null,
+          "planeId": null,
+          "geoCoordinates": [
+            {
+              "latitude": 41.355938,
+              "longitude": 2.133558
+            },
+            {
+              "latitude": 41.356332,
+              "longitude": 2.134601
+            },
+            {
+              "latitude": 41.354582,
+              "longitude": 2.135903
+            },
+            {
+              "latitude": 41.354182,
+              "longitude": 2.134824
+            }
+          ],
+          "layouts": null,
+          "planes": null
+        },
+        {
+          "id": "6448606742147232",
+          "identifier": "Hall8_GV",
+          "description": null,
+          "floor": null,
+          "color": "#009688",
+          "planeIdentifier": null,
+          "planeId": null,
+          "geoCoordinates": [
+            {
+              "latitude": 41.35591,
+              "longitude": 2.135568
+            },
+            {
+              "latitude": 41.356663,
+              "longitude": 2.137495
+            },
+            {
+              "latitude": 41.356405,
+              "longitude": 2.13757
+            },
+            {
+              "latitude": 41.356381,
+              "longitude": 2.137603
+            },
+            {
+              "latitude": 41.355994,
+              "longitude": 2.137882
+            },
+            {
+              "latitude": 41.355592,
+              "longitude": 2.138182
+            },
+            {
+              "latitude": 41.354842,
+              "longitude": 2.136371
+            },
+            {
+              "latitude": 41.354842,
+              "longitude": 2.136371
+            }
+          ],
+          "layouts": null,
+          "planes": null
+        },
+        {
+          "id": "681963600964739",
+          "identifier": "Hall1_GV",
+          "description": null,
+          "floor": null,
+          "color": "#96D98D",
+          "planeIdentifier": null,
+          "planeId": null,
+          "geoCoordinates": [
+            {
+              "latitude": 41.353986,
+              "longitude": 2.127895
+            },
+            {
+              "latitude": 41.354414,
+              "longitude": 2.129077
+            },
+            {
+              "latitude": 41.352737,
+              "longitude": 2.130277
+            },
+            {
+              "latitude": 41.352737,
+              "longitude": 2.130277
+            },
+            {
+              "latitude": 41.352515,
+              "longitude": 2.12971
+            },
+            {
+              "latitude": 41.352515,
+              "longitude": 2.12971
+            }
+          ],
+          "layouts": null,
+          "planes": null
+        },
+        {
+          "id": "6269796845387494",
+          "identifier": "GV_MEDUSA",
+          "description": null,
+          "floor": null,
+          "color": "#689f38",
+          "planeIdentifier": null,
+          "planeId": null,
+          "geoCoordinates": [
+            {
+              "latitude": 41.354376,
+              "longitude": 2.128853
+            },
+            {
+              "latitude": 41.354012,
+              "longitude": 2.12784
+            },
+            {
+              "latitude": 41.354224,
+              "longitude": 2.127674
+            },
+            {
+              "latitude": 41.354436,
+              "longitude": 2.127807
+            },
+            {
+              "latitude": 41.354568,
+              "longitude": 2.12752
+            },
+            {
+              "latitude": 41.354814,
+              "longitude": 2.127727
+            },
+            {
+              "latitude": 41.35522971339064,
+              "longitude": 2.127668972997529
+            },
+            {
+              "latitude": 41.355286,
+              "longitude": 2.127947
+            },
+            {
+              "latitude": 41.354938,
+              "longitude": 2.128231
+            },
+            {
+              "latitude": 41.354634,
+              "longitude": 2.128455
+            },
+            {
+              "latitude": 41.354536,
+              "longitude": 2.128744
+            },
+            {
+              "latitude": 41.354542,
+              "longitude": 2.129027
+            },
+            {
+              "latitude": 41.354453,
+              "longitude": 2.129093
+            }
+          ],
+          "layouts": null,
+          "planes": null
+        },
+        {
+          "id": "14755932655731652",
+          "identifier": "Hall4_GV",
+          "description": null,
+          "floor": null,
+          "color": "#3f51b5",
+          "planeIdentifier": null,
+          "planeId": null,
+          "geoCoordinates": [
+            {
+              "latitude": 41.355499,
+              "longitude": 2.132386
+            },
+            {
+              "latitude": 41.355834,
+              "longitude": 2.133319
+            },
+            {
+              "latitude": 41.354057,
+              "longitude": 2.134611
+            },
+            {
+              "latitude": 41.354057,
+              "longitude": 2.134611
+            },
+            {
+              "latitude": 41.353689,
+              "longitude": 2.13366
+            },
+            {
+              "latitude": 41.353689,
+              "longitude": 2.13366
+            }
+          ],
+          "layouts": null,
+          "planes": null
+        },
+        {
+          "id": "20681160741879245",
+          "identifier": "Hall7_GV",
+          "description": null,
+          "floor": null,
+          "color": "#cddc39",
+          "planeIdentifier": null,
+          "planeId": null,
+          "geoCoordinates": [
+            {
+              "latitude": 41.357858,
+              "longitude": 2.132191
+            },
+            {
+              "latitude": 41.358244,
+              "longitude": 2.1332
+            },
+            {
+              "latitude": 41.356627,
+              "longitude": 2.134387
+            },
+            {
+              "latitude": 41.356627,
+              "longitude": 2.134387
+            },
+            {
+              "latitude": 41.356234,
+              "longitude": 2.133369
+            },
+            {
+              "latitude": 41.356234,
+              "longitude": 2.133369
+            }
+          ],
+          "layouts": null,
+          "planes": null
+        },
+        {
+          "id": "10329768805493522",
+          "identifier": "Hall5_GV",
+          "description": null,
+          "floor": null,
+          "color": "#607d8b",
+          "planeIdentifier": null,
+          "planeId": null,
+          "geoCoordinates": [
+            {
+              "latitude": 41.357379,
+              "longitude": 2.130918
+            },
+            {
+              "latitude": 41.357755,
+              "longitude": 2.131909
+            },
+            {
+              "latitude": 41.356135,
+              "longitude": 2.133113
+            },
+            {
+              "latitude": 41.356135,
+              "longitude": 2.133113
+            },
+            {
+              "latitude": 41.355765,
+              "longitude": 2.132098
+            },
+            {
+              "latitude": 41.355765,
+              "longitude": 2.132098
+            }
+          ],
+          "layouts": null,
+          "planes": null
+        },
+        {
+          "id": "60c8899fac6861380216baaa",
+          "identifier": "H2-H3 OUTDOOR GV",
+          "description": null,
+          "floor": null,
+          "color": "#ef6c00",
+          "planeIdentifier": null,
+          "planeId": null,
+          "geoCoordinates": [
+            {
+              "latitude": 41.3561644415585,
+              "longitude": 2.1293655894421106
+            },
+            {
+              "latitude": 41.35627924053675,
+              "longitude": 2.1296686893975525
+            },
+            {
+              "latitude": 41.353887983829694,
+              "longitude": 2.131414430896739
+            },
+            {
+              "latitude": 41.353771,
+              "longitude": 2.131069
+            }
+          ],
+          "layouts": null,
+          "planes": null
+        },
+        {
+          "id": "60c88d28ac6861380216baab",
+          "identifier": "H3-H5 OUTDOOR GV",
+          "description": null,
+          "floor": null,
+          "color": "#3388ff",
+          "planeIdentifier": null,
+          "planeId": null,
+          "geoCoordinates": [
+            {
+              "latitude": 41.357194,
+              "longitude": 2.130457
+            },
+            {
+              "latitude": 41.357363,
+              "longitude": 2.130929
+            },
+            {
+              "latitude": 41.356099,
+              "longitude": 2.131798
+            },
+            {
+              "latitude": 41.355938,
+              "longitude": 2.131305
+            }
+          ],
+          "layouts": null,
+          "planes": null
+        },
+        {
+          "id": "60c88d28ac6861380216baac",
+          "identifier": "CC5 GV",
+          "description": null,
+          "floor": null,
+          "color": "#3388ff",
+          "planeIdentifier": null,
+          "planeId": null,
+          "geoCoordinates": [
+            {
+              "latitude": 41.355938,
+              "longitude": 2.131326
+            },
+            {
+              "latitude": 41.356091,
+              "longitude": 2.131788
+            },
+            {
+              "latitude": 41.355696,
+              "longitude": 2.132056
+            },
+            {
+              "latitude": 41.355527,
+              "longitude": 2.131616
+            }
+          ],
+          "layouts": null,
+          "planes": null
+        },
+        {
+          "id": "60c88d28ac6861380216baad",
+          "identifier": "CC4 GV",
+          "description": null,
+          "floor": null,
+          "color": "#3388ff",
+          "planeIdentifier": null,
+          "planeId": null,
+          "geoCoordinates": [
+            {
+              "latitude": 41.355277,
+              "longitude": 2.13183
+            },
+            {
+              "latitude": 41.35546940001308,
+              "longitude": 2.132349899818142
+            },
+            {
+              "latitude": 41.355056071036934,
+              "longitude": 2.1326148627390094
+            },
+            {
+              "latitude": 41.354867871699874,
+              "longitude": 2.132117966237437
+            }
+          ],
+          "layouts": null,
+          "planes": null
+        },
+        {
+          "id": "32f42ac8-3a88-46b0-95bb-a5d8b982ac4b",
+          "identifier": "CONGRESS SQUARE",
+          "description": null,
+          "floor": null,
+          "color": "#689f38",
+          "planeIdentifier": null,
+          "planeId": null,
+          "geoCoordinates": [
+            {
+              "latitude": 41.355562437516625,
+              "longitude": 2.1315425233472745
+            },
+            {
+              "latitude": 41.356646488330426,
+              "longitude": 2.134496596611359
+            },
+            {
+              "latitude": 41.35631485119543,
+              "longitude": 2.134691467021436
+            },
+            {
+              "latitude": 41.355257,
+              "longitude": 2.131828
+            }
+          ],
+          "layouts": null,
+          "planes": null
+        },
+        {
+          "id": "04c7de52-b30d-433e-9996-ddd612f918d0",
+          "identifier": "H4-H6 OUTDOOR GV",
+          "description": null,
+          "floor": null,
+          "color": "#FF9830",
+          "planeIdentifier": null,
+          "planeId": null,
+          "geoCoordinates": [
+            {
+              "latitude": 41.35584189552534,
+              "longitude": 2.1333218851490643
+            },
+            {
+              "latitude": 41.35594603184215,
+              "longitude": 2.133619806380558
+            },
+            {
+              "latitude": 41.35420412440259,
+              "longitude": 2.1348107197181285
+            },
+            {
+              "latitude": 41.354117933496575,
+              "longitude": 2.1345677317781635
+            }
+          ],
+          "layouts": null,
+          "planes": null
+        },
+        {
+          "id": "7637b073-84b9-4461-925e-078ea3571461",
+          "identifier": "H5-H7 OUTDOOR GV",
+          "description": null,
+          "floor": null,
+          "color": "#FF9830",
+          "planeIdentifier": null,
+          "planeId": null,
+          "geoCoordinates": [
+            {
+              "latitude": 41.35775785963487,
+              "longitude": 2.1319051313726343
+            },
+            {
+              "latitude": 41.35777804336527,
+              "longitude": 2.131935988055393
+            },
+            {
+              "latitude": 41.357787685572745,
+              "longitude": 2.1318717110384404
+            },
+            {
+              "latitude": 41.357882732805514,
+              "longitude": 2.13216752862147
+            },
+            {
+              "latitude": 41.35624860811551,
+              "longitude": 2.1333492730375703
+            },
+            {
+              "latitude": 41.356147047095334,
+              "longitude": 2.13308112482616
+            }
+          ],
+          "layouts": null,
+          "planes": null
+        },
+        {
+          "id": "6cfb39bd-b922-4545-82ac-e27b468da902",
+          "identifier": "GV VENUE",
+          "description": null,
+          "floor": null,
+          "color": "#56A64B",
+          "planeIdentifier": null,
+          "planeId": null,
+          "geoCoordinates": [
+            {
+              "latitude": 41.35695580317718,
+              "longitude": 2.1371778729829645
+            },
+            {
+              "latitude": 41.355570870143126,
+              "longitude": 2.1383113516301098
+            },
+            {
+              "latitude": 41.354722,
+              "longitude": 2.136251
+            },
+            {
+              "latitude": 41.354367,
+              "longitude": 2.136111
+            },
+            {
+              "latitude": 41.352153,
+              "longitude": 2.130028
+            },
+            {
+              "latitude": 41.354271,
+              "longitude": 2.127185
+            },
+            {
+              "latitude": 41.35568,
+              "longitude": 2.127646
+            },
+            {
+              "latitude": 41.357798,
+              "longitude": 2.130382
+            },
+            {
+              "latitude": 41.357476,
+              "longitude": 2.130607
+            },
+            {
+              "latitude": 41.358273,
+              "longitude": 2.133257
+            },
+            {
+              "latitude": 41.356204,
+              "longitude": 2.135006
+            }
+          ],
+          "layouts": null,
+          "planes": null
+        }
+      ]
+    }
+  ],
+  "zones": [
+    {
+      "id": "5f0f394082a63d4519b6e07e",
+      "identifier": "Hall2_GV",
+      "description": null,
+      "floor": null,
+      "color": "#689f38",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.355793,
+          "longitude": 2.1283
+        },
+        {
+          "latitude": 41.356179,
+          "longitude": 2.129288
+        },
+        {
+          "latitude": 41.352926,
+          "longitude": 2.131669
+        },
+        {
+          "latitude": 41.352515,
+          "longitude": 2.130639
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "5f0f394082a63d4519b6e07f",
+      "identifier": "Hall3_GV",
+      "description": null,
+      "floor": null,
+      "color": "#e91e63",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.356775,
+          "longitude": 2.12932
+        },
+        {
+          "latitude": 41.357186,
+          "longitude": 2.130414
+        },
+        {
+          "latitude": 41.353812,
+          "longitude": 2.13286
+        },
+        {
+          "latitude": 41.353377,
+          "longitude": 2.131744
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "5f0f394182a63d4519b6e083",
+      "identifier": "Hall6_GV",
+      "description": null,
+      "floor": null,
+      "color": "#9c27b0",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.355938,
+          "longitude": 2.133558
+        },
+        {
+          "latitude": 41.356332,
+          "longitude": 2.134601
+        },
+        {
+          "latitude": 41.354582,
+          "longitude": 2.135903
+        },
+        {
+          "latitude": 41.354182,
+          "longitude": 2.134824
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "6448606742147232",
+      "identifier": "Hall8_GV",
+      "description": null,
+      "floor": null,
+      "color": "#009688",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.35591,
+          "longitude": 2.135568
+        },
+        {
+          "latitude": 41.356663,
+          "longitude": 2.137495
+        },
+        {
+          "latitude": 41.356405,
+          "longitude": 2.13757
+        },
+        {
+          "latitude": 41.356381,
+          "longitude": 2.137603
+        },
+        {
+          "latitude": 41.355994,
+          "longitude": 2.137882
+        },
+        {
+          "latitude": 41.355592,
+          "longitude": 2.138182
+        },
+        {
+          "latitude": 41.354842,
+          "longitude": 2.136371
+        },
+        {
+          "latitude": 41.354842,
+          "longitude": 2.136371
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "681963600964739",
+      "identifier": "Hall1_GV",
+      "description": null,
+      "floor": null,
+      "color": "#96D98D",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.353986,
+          "longitude": 2.127895
+        },
+        {
+          "latitude": 41.354414,
+          "longitude": 2.129077
+        },
+        {
+          "latitude": 41.352737,
+          "longitude": 2.130277
+        },
+        {
+          "latitude": 41.352737,
+          "longitude": 2.130277
+        },
+        {
+          "latitude": 41.352515,
+          "longitude": 2.12971
+        },
+        {
+          "latitude": 41.352515,
+          "longitude": 2.12971
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "6269796845387494",
+      "identifier": "GV_MEDUSA",
+      "description": null,
+      "floor": null,
+      "color": "#689f38",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.354376,
+          "longitude": 2.128853
+        },
+        {
+          "latitude": 41.354012,
+          "longitude": 2.12784
+        },
+        {
+          "latitude": 41.354224,
+          "longitude": 2.127674
+        },
+        {
+          "latitude": 41.354436,
+          "longitude": 2.127807
+        },
+        {
+          "latitude": 41.354568,
+          "longitude": 2.12752
+        },
+        {
+          "latitude": 41.354814,
+          "longitude": 2.127727
+        },
+        {
+          "latitude": 41.35522971339064,
+          "longitude": 2.127668972997529
+        },
+        {
+          "latitude": 41.355286,
+          "longitude": 2.127947
+        },
+        {
+          "latitude": 41.354938,
+          "longitude": 2.128231
+        },
+        {
+          "latitude": 41.354634,
+          "longitude": 2.128455
+        },
+        {
+          "latitude": 41.354536,
+          "longitude": 2.128744
+        },
+        {
+          "latitude": 41.354542,
+          "longitude": 2.129027
+        },
+        {
+          "latitude": 41.354453,
+          "longitude": 2.129093
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "14755932655731652",
+      "identifier": "Hall4_GV",
+      "description": null,
+      "floor": null,
+      "color": "#3f51b5",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.355499,
+          "longitude": 2.132386
+        },
+        {
+          "latitude": 41.355834,
+          "longitude": 2.133319
+        },
+        {
+          "latitude": 41.354057,
+          "longitude": 2.134611
+        },
+        {
+          "latitude": 41.354057,
+          "longitude": 2.134611
+        },
+        {
+          "latitude": 41.353689,
+          "longitude": 2.13366
+        },
+        {
+          "latitude": 41.353689,
+          "longitude": 2.13366
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "20681160741879245",
+      "identifier": "Hall7_GV",
+      "description": null,
+      "floor": null,
+      "color": "#cddc39",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.357858,
+          "longitude": 2.132191
+        },
+        {
+          "latitude": 41.358244,
+          "longitude": 2.1332
+        },
+        {
+          "latitude": 41.356627,
+          "longitude": 2.134387
+        },
+        {
+          "latitude": 41.356627,
+          "longitude": 2.134387
+        },
+        {
+          "latitude": 41.356234,
+          "longitude": 2.133369
+        },
+        {
+          "latitude": 41.356234,
+          "longitude": 2.133369
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "10329768805493522",
+      "identifier": "Hall5_GV",
+      "description": null,
+      "floor": null,
+      "color": "#607d8b",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.357379,
+          "longitude": 2.130918
+        },
+        {
+          "latitude": 41.357755,
+          "longitude": 2.131909
+        },
+        {
+          "latitude": 41.356135,
+          "longitude": 2.133113
+        },
+        {
+          "latitude": 41.356135,
+          "longitude": 2.133113
+        },
+        {
+          "latitude": 41.355765,
+          "longitude": 2.132098
+        },
+        {
+          "latitude": 41.355765,
+          "longitude": 2.132098
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "60c8899fac6861380216baaa",
+      "identifier": "H2-H3 OUTDOOR GV",
+      "description": null,
+      "floor": null,
+      "color": "#ef6c00",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.3561644415585,
+          "longitude": 2.1293655894421106
+        },
+        {
+          "latitude": 41.35627924053675,
+          "longitude": 2.1296686893975525
+        },
+        {
+          "latitude": 41.353887983829694,
+          "longitude": 2.131414430896739
+        },
+        {
+          "latitude": 41.353771,
+          "longitude": 2.131069
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "60c88d28ac6861380216baab",
+      "identifier": "H3-H5 OUTDOOR GV",
+      "description": null,
+      "floor": null,
+      "color": "#3388ff",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.357194,
+          "longitude": 2.130457
+        },
+        {
+          "latitude": 41.357363,
+          "longitude": 2.130929
+        },
+        {
+          "latitude": 41.356099,
+          "longitude": 2.131798
+        },
+        {
+          "latitude": 41.355938,
+          "longitude": 2.131305
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "60c88d28ac6861380216baac",
+      "identifier": "CC5 GV",
+      "description": null,
+      "floor": null,
+      "color": "#3388ff",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.355938,
+          "longitude": 2.131326
+        },
+        {
+          "latitude": 41.356091,
+          "longitude": 2.131788
+        },
+        {
+          "latitude": 41.355696,
+          "longitude": 2.132056
+        },
+        {
+          "latitude": 41.355527,
+          "longitude": 2.131616
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "60c88d28ac6861380216baad",
+      "identifier": "CC4 GV",
+      "description": null,
+      "floor": null,
+      "color": "#3388ff",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.355277,
+          "longitude": 2.13183
+        },
+        {
+          "latitude": 41.35546940001308,
+          "longitude": 2.132349899818142
+        },
+        {
+          "latitude": 41.355056071036934,
+          "longitude": 2.1326148627390094
+        },
+        {
+          "latitude": 41.354867871699874,
+          "longitude": 2.132117966237437
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "32f42ac8-3a88-46b0-95bb-a5d8b982ac4b",
+      "identifier": "CONGRESS SQUARE",
+      "description": null,
+      "floor": null,
+      "color": "#689f38",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.355562437516625,
+          "longitude": 2.1315425233472745
+        },
+        {
+          "latitude": 41.356646488330426,
+          "longitude": 2.134496596611359
+        },
+        {
+          "latitude": 41.35631485119543,
+          "longitude": 2.134691467021436
+        },
+        {
+          "latitude": 41.355257,
+          "longitude": 2.131828
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "04c7de52-b30d-433e-9996-ddd612f918d0",
+      "identifier": "H4-H6 OUTDOOR GV",
+      "description": null,
+      "floor": null,
+      "color": "#FF9830",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.35584189552534,
+          "longitude": 2.1333218851490643
+        },
+        {
+          "latitude": 41.35594603184215,
+          "longitude": 2.133619806380558
+        },
+        {
+          "latitude": 41.35420412440259,
+          "longitude": 2.1348107197181285
+        },
+        {
+          "latitude": 41.354117933496575,
+          "longitude": 2.1345677317781635
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "7637b073-84b9-4461-925e-078ea3571461",
+      "identifier": "H5-H7 OUTDOOR GV",
+      "description": null,
+      "floor": null,
+      "color": "#FF9830",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.35775785963487,
+          "longitude": 2.1319051313726343
+        },
+        {
+          "latitude": 41.35777804336527,
+          "longitude": 2.131935988055393
+        },
+        {
+          "latitude": 41.357787685572745,
+          "longitude": 2.1318717110384404
+        },
+        {
+          "latitude": 41.357882732805514,
+          "longitude": 2.13216752862147
+        },
+        {
+          "latitude": 41.35624860811551,
+          "longitude": 2.1333492730375703
+        },
+        {
+          "latitude": 41.356147047095334,
+          "longitude": 2.13308112482616
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "6cfb39bd-b922-4545-82ac-e27b468da902",
+      "identifier": "GV VENUE",
+      "description": null,
+      "floor": null,
+      "color": "#56A64B",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.35695580317718,
+          "longitude": 2.1371778729829645
+        },
+        {
+          "latitude": 41.355570870143126,
+          "longitude": 2.1383113516301098
+        },
+        {
+          "latitude": 41.354722,
+          "longitude": 2.136251
+        },
+        {
+          "latitude": 41.354367,
+          "longitude": 2.136111
+        },
+        {
+          "latitude": 41.352153,
+          "longitude": 2.130028
+        },
+        {
+          "latitude": 41.354271,
+          "longitude": 2.127185
+        },
+        {
+          "latitude": 41.35568,
+          "longitude": 2.127646
+        },
+        {
+          "latitude": 41.357798,
+          "longitude": 2.130382
+        },
+        {
+          "latitude": 41.357476,
+          "longitude": 2.130607
+        },
+        {
+          "latitude": 41.358273,
+          "longitude": 2.133257
+        },
+        {
+          "latitude": 41.356204,
+          "longitude": 2.135006
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "9464dcb8-77c2-4ab5-b777-328275ee65c7",
+      "identifier": "ERS_8B",
+      "description": null,
+      "floor": null,
+      "color": "#FF9830",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.355804312109406,
+          "longitude": 2.135768366440091
+        },
+        {
+          "latitude": 41.35601819557431,
+          "longitude": 2.1363124236411473
+        },
+        {
+          "latitude": 41.35575737676082,
+          "longitude": 2.1365187234260046
+        },
+        {
+          "latitude": 41.355540376765774,
+          "longitude": 2.1359664377532246
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "f44306c8-a54b-4dec-88a0-be0eba499c0f",
+      "identifier": "ERS_8A",
+      "description": null,
+      "floor": null,
+      "color": "#FF9830",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.355483320992654,
+          "longitude": 2.136023970018306
+        },
+        {
+          "latitude": 41.355703692206156,
+          "longitude": 2.1365570695397764
+        },
+        {
+          "latitude": 41.35544216699968,
+          "longitude": 2.1367560658311153
+        },
+        {
+          "latitude": 41.35523997397372,
+          "longitude": 2.1362344070853916
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "ac317c0d-eae6-4eaf-9452-8c14ad9897d6",
+      "identifier": "ERS_8C",
+      "description": null,
+      "floor": null,
+      "color": "#FFF899",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.3560579471031,
+          "longitude": 2.1364201319254863
+        },
+        {
+          "latitude": 41.356226972798886,
+          "longitude": 2.1368420352323643
+        },
+        {
+          "latitude": 41.3559781095216,
+          "longitude": 2.1370379079044985
+        },
+        {
+          "latitude": 41.355812691551286,
+          "longitude": 2.1366133451251135
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "3820105e-3624-4c87-9427-628007ef599a",
+      "identifier": "ERS_8D",
+      "description": null,
+      "floor": null,
+      "color": "#FF9830",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.35623003734871,
+          "longitude": 2.136862535553914
+        },
+        {
+          "latitude": 41.35630141336301,
+          "longitude": 2.1370509872900323
+        },
+        {
+          "latitude": 41.35618674605477,
+          "longitude": 2.1371396718267817
+        },
+        {
+          "latitude": 41.356110540960074,
+          "longitude": 2.1369547798977004
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "ebea3780-f77d-4722-982c-8dc5e8215914",
+      "identifier": "ERS_8E",
+      "description": null,
+      "floor": null,
+      "color": "#FF9830",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.3561032973395,
+          "longitude": 2.136960119608256
+        },
+        {
+          "latitude": 41.356180733055126,
+          "longitude": 2.1371482607052013
+        },
+        {
+          "latitude": 41.35605763820705,
+          "longitude": 2.137247314023889
+        },
+        {
+          "latitude": 41.35598380095087,
+          "longitude": 2.1370523639520425
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "2f02f2bb-33e3-47e4-9586-1cbc770ffdda",
+      "identifier": "ERS_8F",
+      "description": null,
+      "floor": null,
+      "color": "#3274D9",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.35633168973233,
+          "longitude": 2.1370988274133924
+        },
+        {
+          "latitude": 41.35640540818852,
+          "longitude": 2.1372865797361964
+        },
+        {
+          "latitude": 41.35615574068573,
+          "longitude": 2.1374741333614486
+        },
+        {
+          "latitude": 41.35608202222954,
+          "longitude": 2.137286381038645
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "e35effe3-7433-45fc-a316-939d1c54600c",
+      "identifier": "ERS_8G",
+      "description": null,
+      "floor": null,
+      "color": "#FF9830",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.35644380596979,
+          "longitude": 2.137381076046132
+        },
+        {
+          "latitude": 41.35656111642415,
+          "longitude": 2.137677038798411
+        },
+        {
+          "latitude": 41.356315564871096,
+          "longitude": 2.137868575544639
+        },
+        {
+          "latitude": 41.35619925383634,
+          "longitude": 2.137568367441612
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "bb4962c3-c5f7-4981-b650-67eec808773e",
+      "identifier": "ERS_8H",
+      "description": null,
+      "floor": null,
+      "color": "#96D98D",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.35609359337682,
+          "longitude": 2.1375234545174027
+        },
+        {
+          "latitude": 41.356248341616634,
+          "longitude": 2.1379251471050216
+        },
+        {
+          "latitude": 41.35599663585087,
+          "longitude": 2.138114203257114
+        },
+        {
+          "latitude": 41.35584188761105,
+          "longitude": 2.137712510669495
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "49336f80-f700-49af-8af7-0b7528bcaf08",
+      "identifier": "ERS_8K",
+      "description": null,
+      "floor": null,
+      "color": "#56A64B",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.356018875501036,
+          "longitude": 2.137339947545347
+        },
+        {
+          "latitude": 41.356086360896946,
+          "longitude": 2.1375112429247034
+        },
+        {
+          "latitude": 41.35595591206641,
+          "longitude": 2.1376074046424764
+        },
+        {
+          "latitude": 41.35588946551389,
+          "longitude": 2.1374388520870276
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "746d08ca-3b9f-4e76-8562-77fe3a91dca2",
+      "identifier": "ERS_8J",
+      "description": null,
+      "floor": null,
+      "color": "#FF9830",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.355886388407534,
+          "longitude": 2.13743761178996
+        },
+        {
+          "latitude": 41.35596006743994,
+          "longitude": 2.137618375938108
+        },
+        {
+          "latitude": 41.355835693974555,
+          "longitude": 2.137703041900704
+        },
+        {
+          "latitude": 41.355768208578645,
+          "longitude": 2.1375317465213475
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "55faf765-84b9-4fda-a95b-aa10d11a5926",
+      "identifier": "ERS_8L",
+      "description": null,
+      "floor": null,
+      "color": "#FF9830",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.35585905131567,
+          "longitude": 2.136945505362157
+        },
+        {
+          "latitude": 41.35599613921803,
+          "longitude": 2.1373005699433416
+        },
+        {
+          "latitude": 41.35587284401981,
+          "longitude": 2.1373949669045014
+        },
+        {
+          "latitude": 41.35573883322381,
+          "longitude": 2.1370411426203844
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "96c9bfc4-e376-4c4e-9989-39ec86ffe673",
+      "identifier": "ERS_8M",
+      "description": null,
+      "floor": null,
+      "color": "#FFEE52",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.355736834384615,
+          "longitude": 2.1370496333218805
+        },
+        {
+          "latitude": 41.355866689807094,
+          "longitude": 2.137392486310366
+        },
+        {
+          "latitude": 41.35574443345226,
+          "longitude": 2.137489626095434
+        },
+        {
+          "latitude": 41.35560946266044,
+          "longitude": 2.137147035336721
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "32963501-9fd1-4e12-8573-b3cd3d896287",
+      "identifier": "ERS_8N",
+      "description": null,
+      "floor": null,
+      "color": "#56A64B",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.35574693507821,
+          "longitude": 2.1366632567294173
+        },
+        {
+          "latitude": 41.355853857098765,
+          "longitude": 2.1369317912426173
+        },
+        {
+          "latitude": 41.35559607596785,
+          "longitude": 2.1371323431498865
+        },
+        {
+          "latitude": 41.35548703683675,
+          "longitude": 2.1368513348142146
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    }
+  ],
+  "allZones": [
+    {
+      "id": "5f0f394082a63d4519b6e07e",
+      "identifier": "Hall2_GV",
+      "description": null,
+      "floor": null,
+      "color": "#689f38",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.355793,
+          "longitude": 2.1283
+        },
+        {
+          "latitude": 41.356179,
+          "longitude": 2.129288
+        },
+        {
+          "latitude": 41.352926,
+          "longitude": 2.131669
+        },
+        {
+          "latitude": 41.352515,
+          "longitude": 2.130639
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "5f0f394082a63d4519b6e07f",
+      "identifier": "Hall3_GV",
+      "description": null,
+      "floor": null,
+      "color": "#e91e63",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.356775,
+          "longitude": 2.12932
+        },
+        {
+          "latitude": 41.357186,
+          "longitude": 2.130414
+        },
+        {
+          "latitude": 41.353812,
+          "longitude": 2.13286
+        },
+        {
+          "latitude": 41.353377,
+          "longitude": 2.131744
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "5f0f394182a63d4519b6e083",
+      "identifier": "Hall6_GV",
+      "description": null,
+      "floor": null,
+      "color": "#9c27b0",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.355938,
+          "longitude": 2.133558
+        },
+        {
+          "latitude": 41.356332,
+          "longitude": 2.134601
+        },
+        {
+          "latitude": 41.354582,
+          "longitude": 2.135903
+        },
+        {
+          "latitude": 41.354182,
+          "longitude": 2.134824
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "6448606742147232",
+      "identifier": "Hall8_GV",
+      "description": null,
+      "floor": null,
+      "color": "#009688",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.35591,
+          "longitude": 2.135568
+        },
+        {
+          "latitude": 41.356663,
+          "longitude": 2.137495
+        },
+        {
+          "latitude": 41.356405,
+          "longitude": 2.13757
+        },
+        {
+          "latitude": 41.356381,
+          "longitude": 2.137603
+        },
+        {
+          "latitude": 41.355994,
+          "longitude": 2.137882
+        },
+        {
+          "latitude": 41.355592,
+          "longitude": 2.138182
+        },
+        {
+          "latitude": 41.354842,
+          "longitude": 2.136371
+        },
+        {
+          "latitude": 41.354842,
+          "longitude": 2.136371
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "681963600964739",
+      "identifier": "Hall1_GV",
+      "description": null,
+      "floor": null,
+      "color": "#96D98D",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.353986,
+          "longitude": 2.127895
+        },
+        {
+          "latitude": 41.354414,
+          "longitude": 2.129077
+        },
+        {
+          "latitude": 41.352737,
+          "longitude": 2.130277
+        },
+        {
+          "latitude": 41.352737,
+          "longitude": 2.130277
+        },
+        {
+          "latitude": 41.352515,
+          "longitude": 2.12971
+        },
+        {
+          "latitude": 41.352515,
+          "longitude": 2.12971
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "6269796845387494",
+      "identifier": "GV_MEDUSA",
+      "description": null,
+      "floor": null,
+      "color": "#689f38",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.354376,
+          "longitude": 2.128853
+        },
+        {
+          "latitude": 41.354012,
+          "longitude": 2.12784
+        },
+        {
+          "latitude": 41.354224,
+          "longitude": 2.127674
+        },
+        {
+          "latitude": 41.354436,
+          "longitude": 2.127807
+        },
+        {
+          "latitude": 41.354568,
+          "longitude": 2.12752
+        },
+        {
+          "latitude": 41.354814,
+          "longitude": 2.127727
+        },
+        {
+          "latitude": 41.35522971339064,
+          "longitude": 2.127668972997529
+        },
+        {
+          "latitude": 41.355286,
+          "longitude": 2.127947
+        },
+        {
+          "latitude": 41.354938,
+          "longitude": 2.128231
+        },
+        {
+          "latitude": 41.354634,
+          "longitude": 2.128455
+        },
+        {
+          "latitude": 41.354536,
+          "longitude": 2.128744
+        },
+        {
+          "latitude": 41.354542,
+          "longitude": 2.129027
+        },
+        {
+          "latitude": 41.354453,
+          "longitude": 2.129093
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "14755932655731652",
+      "identifier": "Hall4_GV",
+      "description": null,
+      "floor": null,
+      "color": "#3f51b5",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.355499,
+          "longitude": 2.132386
+        },
+        {
+          "latitude": 41.355834,
+          "longitude": 2.133319
+        },
+        {
+          "latitude": 41.354057,
+          "longitude": 2.134611
+        },
+        {
+          "latitude": 41.354057,
+          "longitude": 2.134611
+        },
+        {
+          "latitude": 41.353689,
+          "longitude": 2.13366
+        },
+        {
+          "latitude": 41.353689,
+          "longitude": 2.13366
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "20681160741879245",
+      "identifier": "Hall7_GV",
+      "description": null,
+      "floor": null,
+      "color": "#cddc39",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.357858,
+          "longitude": 2.132191
+        },
+        {
+          "latitude": 41.358244,
+          "longitude": 2.1332
+        },
+        {
+          "latitude": 41.356627,
+          "longitude": 2.134387
+        },
+        {
+          "latitude": 41.356627,
+          "longitude": 2.134387
+        },
+        {
+          "latitude": 41.356234,
+          "longitude": 2.133369
+        },
+        {
+          "latitude": 41.356234,
+          "longitude": 2.133369
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "10329768805493522",
+      "identifier": "Hall5_GV",
+      "description": null,
+      "floor": null,
+      "color": "#607d8b",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.357379,
+          "longitude": 2.130918
+        },
+        {
+          "latitude": 41.357755,
+          "longitude": 2.131909
+        },
+        {
+          "latitude": 41.356135,
+          "longitude": 2.133113
+        },
+        {
+          "latitude": 41.356135,
+          "longitude": 2.133113
+        },
+        {
+          "latitude": 41.355765,
+          "longitude": 2.132098
+        },
+        {
+          "latitude": 41.355765,
+          "longitude": 2.132098
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "60c8899fac6861380216baaa",
+      "identifier": "H2-H3 OUTDOOR GV",
+      "description": null,
+      "floor": null,
+      "color": "#ef6c00",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.3561644415585,
+          "longitude": 2.1293655894421106
+        },
+        {
+          "latitude": 41.35627924053675,
+          "longitude": 2.1296686893975525
+        },
+        {
+          "latitude": 41.353887983829694,
+          "longitude": 2.131414430896739
+        },
+        {
+          "latitude": 41.353771,
+          "longitude": 2.131069
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "60c88d28ac6861380216baab",
+      "identifier": "H3-H5 OUTDOOR GV",
+      "description": null,
+      "floor": null,
+      "color": "#3388ff",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.357194,
+          "longitude": 2.130457
+        },
+        {
+          "latitude": 41.357363,
+          "longitude": 2.130929
+        },
+        {
+          "latitude": 41.356099,
+          "longitude": 2.131798
+        },
+        {
+          "latitude": 41.355938,
+          "longitude": 2.131305
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "60c88d28ac6861380216baac",
+      "identifier": "CC5 GV",
+      "description": null,
+      "floor": null,
+      "color": "#3388ff",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.355938,
+          "longitude": 2.131326
+        },
+        {
+          "latitude": 41.356091,
+          "longitude": 2.131788
+        },
+        {
+          "latitude": 41.355696,
+          "longitude": 2.132056
+        },
+        {
+          "latitude": 41.355527,
+          "longitude": 2.131616
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "60c88d28ac6861380216baad",
+      "identifier": "CC4 GV",
+      "description": null,
+      "floor": null,
+      "color": "#3388ff",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.355277,
+          "longitude": 2.13183
+        },
+        {
+          "latitude": 41.35546940001308,
+          "longitude": 2.132349899818142
+        },
+        {
+          "latitude": 41.355056071036934,
+          "longitude": 2.1326148627390094
+        },
+        {
+          "latitude": 41.354867871699874,
+          "longitude": 2.132117966237437
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "32f42ac8-3a88-46b0-95bb-a5d8b982ac4b",
+      "identifier": "CONGRESS SQUARE",
+      "description": null,
+      "floor": null,
+      "color": "#689f38",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.355562437516625,
+          "longitude": 2.1315425233472745
+        },
+        {
+          "latitude": 41.356646488330426,
+          "longitude": 2.134496596611359
+        },
+        {
+          "latitude": 41.35631485119543,
+          "longitude": 2.134691467021436
+        },
+        {
+          "latitude": 41.355257,
+          "longitude": 2.131828
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "04c7de52-b30d-433e-9996-ddd612f918d0",
+      "identifier": "H4-H6 OUTDOOR GV",
+      "description": null,
+      "floor": null,
+      "color": "#FF9830",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.35584189552534,
+          "longitude": 2.1333218851490643
+        },
+        {
+          "latitude": 41.35594603184215,
+          "longitude": 2.133619806380558
+        },
+        {
+          "latitude": 41.35420412440259,
+          "longitude": 2.1348107197181285
+        },
+        {
+          "latitude": 41.354117933496575,
+          "longitude": 2.1345677317781635
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "7637b073-84b9-4461-925e-078ea3571461",
+      "identifier": "H5-H7 OUTDOOR GV",
+      "description": null,
+      "floor": null,
+      "color": "#FF9830",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.35775785963487,
+          "longitude": 2.1319051313726343
+        },
+        {
+          "latitude": 41.35777804336527,
+          "longitude": 2.131935988055393
+        },
+        {
+          "latitude": 41.357787685572745,
+          "longitude": 2.1318717110384404
+        },
+        {
+          "latitude": 41.357882732805514,
+          "longitude": 2.13216752862147
+        },
+        {
+          "latitude": 41.35624860811551,
+          "longitude": 2.1333492730375703
+        },
+        {
+          "latitude": 41.356147047095334,
+          "longitude": 2.13308112482616
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    },
+    {
+      "id": "6cfb39bd-b922-4545-82ac-e27b468da902",
+      "identifier": "GV VENUE",
+      "description": null,
+      "floor": null,
+      "color": "#56A64B",
+      "planeIdentifier": null,
+      "planeId": null,
+      "geoCoordinates": [
+        {
+          "latitude": 41.35695580317718,
+          "longitude": 2.1371778729829645
+        },
+        {
+          "latitude": 41.355570870143126,
+          "longitude": 2.1383113516301098
+        },
+        {
+          "latitude": 41.354722,
+          "longitude": 2.136251
+        },
+        {
+          "latitude": 41.354367,
+          "longitude": 2.136111
+        },
+        {
+          "latitude": 41.352153,
+          "longitude": 2.130028
+        },
+        {
+          "latitude": 41.354271,
+          "longitude": 2.127185
+        },
+        {
+          "latitude": 41.35568,
+          "longitude": 2.127646
+        },
+        {
+          "latitude": 41.357798,
+          "longitude": 2.130382
+        },
+        {
+          "latitude": 41.357476,
+          "longitude": 2.130607
+        },
+        {
+          "latitude": 41.358273,
+          "longitude": 2.133257
+        },
+        {
+          "latitude": 41.356204,
+          "longitude": 2.135006
+        }
+      ],
+      "layouts": null,
+      "planes": null
+    }
+  ]
+}
