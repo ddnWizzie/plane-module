@@ -1,4 +1,4 @@
-# Enriched Cmx Plane Engine
+# Plane Module
 The application consumes a topic of kafka that contains the information of the plans with their zones. 
 The name of the plan and its zones are stored in a structure, as well as the information of the layouts and their zones. We use sync.map
 

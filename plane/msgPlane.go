@@ -3,8 +3,8 @@ package plane
 import geo "github.com/kellydunn/golang-geo"
 
 type Coordinate struct {
-	X *int32 `json:"x,omitempty"`
-	Y *int32 `json:"y,omitempty"`
+	X *float64 `json:"x,omitempty"`
+	Y *float64 `json:"y,omitempty"`
 }
 
 type GeoCoordinate struct {
